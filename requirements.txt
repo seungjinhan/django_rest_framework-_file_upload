@@ -11,7 +11,7 @@ Click==7.0
 colorama==0.4.1
 coreapi==2.3.3
 coreschema==0.0.4
-cryptography==2.7
+cryptography==3.2
 cycler==0.10.0
 Django==2.2.3
 django-extra-fields==1.2.3
