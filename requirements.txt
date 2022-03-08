@@ -27,7 +27,7 @@ graphene==2.1.7
 graphene-django==2.4.0
 graphql-core==2.2.1
 graphql-relay==2.0.0
-httpie==1.0.2
+httpie==3.1.0
 idna==2.8
 inflection==0.3.1
 itsdangerous==1.1.0
